@@ -22,3 +22,16 @@ D:\projects\sharp\DataAccess\obj\Debug\net8.0\DataAccess.dll
 D:\projects\sharp\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 D:\projects\sharp\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 D:\projects\sharp\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\projects\sharp\CoreAPI\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\projects\sharp\CoreAPI\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\projects\sharp\CoreAPI\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\projects\sharp\CoreAPI\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
